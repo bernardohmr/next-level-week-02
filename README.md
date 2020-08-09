@@ -3,5 +3,5 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <img src=".github/main.jpg" alt="Logo" width="910" height="585">
+  <img src=".github/main.jpg" alt="Logo" width="910">
 </p>
